@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Rojin Temel
-I'm currently working on Cross-platform mobile applications with **Flutter**,
+I'm currently working on Cross-platform mobile applications 
+with **Flutter**,
 focusing on clean architecture, 
 scalable state management, and high-performance UI development.
 
@@ -20,10 +21,15 @@ Flutter, cross-platform mobile development, state management(Cubit), RESTful API
 
 ## Tools & Tech
 - Flutter, Swift, Python
-- Firebbase,Supbase
+- Firebase,Supbase
+- Cubit/Bloc ,MVVM
 - Figma, Jira
 
-
+## ✨ A Bit About Me
+- 📱 Mobile-first mindset
+- 🤖 Interested in AI & Machine Learning
+- 🧩 Enjoy clean architecture and scalable solutions
+- 🚀 Always curious about building better user experiences
 
 
 
