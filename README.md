@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 I'm Rojin Temel
-I'm currently working on Cross-platform mobile applications 
+I'm  working on Cross-platform mobile applications 
 with **Flutter**,
 focusing on clean architecture, 
 scalable state management, and high-performance UI development.
 
-I'm currently learning **Machine Learning and Artificial Intelligence**, particularly 
-how ML models can be integrated into mobile applications to build smarter 
+I recently learn **Machine Learning and Artificial Intelligence**, 
+particularly how ML models can be integrated into 
+mobile applications to build smarter 
 and more personalized user experiences.
 
 I'm looking to collaborate on Flutter-based mobile projects,
