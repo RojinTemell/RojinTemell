@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm @Rojintemell
+I'm Rojin Temel
 I'm currently working on Cross-platform mobile applications with **Flutter**,
 focusing on clean architecture, 
 scalable state management, and high-performance UI development.
