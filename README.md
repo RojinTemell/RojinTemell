@@ -15,7 +15,15 @@ data-centric solutions, or innovative product ideas.
 
 I'm looking for help with Best practices for
 **deploying, optimizing, and maintaining ML models** in mobile environments.
+Flutter, cross-platform mobile development, state management(Cubit), RESTful APIs, and applying AI concepts in mobile apps.
 
-Flutter, cross-platform mobile development, state management, RESTful APIs, and applying AI concepts in mobile apps.
+---
+## Tools & Tech
+- Flutter, Swift, Python
+- Firebbase,Supbase
+- Figma, Jira
+---
+
+
 
 
