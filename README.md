@@ -25,6 +25,7 @@ Flutter, cross-platform mobile development, state management(Cubit), RESTful API
 - Firebase,Supbase
 - Cubit/Bloc ,MVVM
 - Figma, Jira, Postman
+- Git/Github
 
 ## ✨ A Bit About Me
 - 📱 Mobile-first mindset
